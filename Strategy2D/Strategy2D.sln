@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy2D", "Assembly-CSharp.csproj", "{EF287512-E8BA-A55E-CA59-7FA5F5CA28FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF287512-E8BA-A55E-CA59-7FA5F5CA28FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF287512-E8BA-A55E-CA59-7FA5F5CA28FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF287512-E8BA-A55E-CA59-7FA5F5CA28FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF287512-E8BA-A55E-CA59-7FA5F5CA28FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
